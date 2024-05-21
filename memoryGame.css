@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+p {
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+    line-height:50px;
+    display:table-cell;
+    margin:auto;
+    width:50%;
+}
+
+.board {
+    width:100%;
+}
+
+.boxClass {
+    display:inline-block;
+    background-color: black;
+    border: 1px solid beige;
+    width:50px; 
+    height:50px;
+    margin:2px;
+}
+
+.boxText {
+    font-size:30px;
+}
